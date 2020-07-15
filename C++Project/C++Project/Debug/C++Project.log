@@ -1,0 +1,45 @@
+﻿生成启动时间为 2020/7/15 17:40:36。
+     1>项目“d:\documents\visual studio 2013\Projects\C++Project\C++Project\C++Project.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt threadDemo04.cpp
+         threadDemo04.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"d:\documents\visual studio 2013\Projects\C++Project\Debug\C++Project.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"d:\documents\visual studio 2013\Projects\C++Project\Debug\C++Project.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"d:\documents\visual studio 2013\Projects\C++Project\Debug\C++Project.lib" /MACHINE:X86 Debug\abstractDemo.obj
+         Debug\abstractDemo02.obj
+         Debug\classDemo.obj
+         Debug\constructDemo.obj
+         Debug\defineDemo.obj
+         Debug\defineDemo02.obj
+         Debug\defineDemo03.obj
+         Debug\defineDemo04.obj
+         Debug\exceptionDemo.obj
+         Debug\exceptionDemo02.obj
+         Debug\friendMethod.obj
+         Debug\fStream.obj
+         Debug\hello.obj
+         Debug\inline.obj
+         Debug\mathDemo.obj
+         Debug\memoryDemo.obj
+         Debug\memoryDemo02.obj
+         Debug\memoryDemo03.obj
+         Debug\namespaceDemo01.obj
+         Debug\namespaceDemo02.obj
+         Debug\operator+.obj
+         Debug\overload.obj
+         Debug\pointClassPointer.obj
+         Debug\polymorphism.obj
+         Debug\signalDemo.obj
+         Debug\signalDemo02.obj
+         Debug\staticDemo.obj
+         Debug\templateDemo.obj
+         Debug\thisPointer.obj
+         Debug\threadDemo01.obj
+         Debug\threadDemo02.obj
+         Debug\threadDemo03.obj
+         Debug\threadDemo04.obj
+         C++Project.vcxproj -> d:\documents\visual studio 2013\Projects\C++Project\Debug\C++Project.exe
+     1>已完成生成项目“d:\documents\visual studio 2013\Projects\C++Project\C++Project\C++Project.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.98
