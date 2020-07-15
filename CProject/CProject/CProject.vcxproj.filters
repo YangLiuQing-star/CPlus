@@ -1,0 +1,461 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Administrator\Desktop\Note\C\代码\CProject\CProject\whileExercise.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Administrator\Desktop\Note\C\代码\CProject\CProject\addressPassDemo.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Administrator\Desktop\Note\C\代码\CProject\CProject\allExercise01.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Administrator\Desktop\Note\C\代码\CProject\CProject\allExercise02.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Administrator\Desktop\Note\C\代码\CProject\CProject\arithmeticDemo.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Administrator\Desktop\Note\C\代码\CProject\CProject\arithmeticExercise01.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Administrator\Desktop\Note\C\代码\CProject\CProject\arithmeticExercise02.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Administrator\Desktop\Note\C\代码\CProject\CProject\arrayDemo01.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Administrator\Desktop\Note\C\代码\CProject\CProject\arrDemo02.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Administrator\Desktop\Note\C\代码\CProject\CProject\arrDetail.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Administrator\Desktop\Note\C\代码\CProject\CProject\arrExercise.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Administrator\Desktop\Note\C\代码\CProject\CProject\assignedOperator.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Administrator\Desktop\Note\C\代码\CProject\CProject\basicToStr.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Administrator\Desktop\Note\C\代码\CProject\CProject\binarySearch.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Administrator\Desktop\Note\C\代码\CProject\CProject\boolDemo.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Administrator\Desktop\Note\C\代码\CProject\CProject\breakDemo.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Administrator\Desktop\Note\C\代码\CProject\CProject\breakExercise01.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Administrator\Desktop\Note\C\代码\CProject\CProject\breakExercise02.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Administrator\Desktop\Note\C\代码\CProject\CProject\bubbleSort.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Administrator\Desktop\Note\C\代码\CProject\CProject\callbackFun.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Administrator\Desktop\Note\C\代码\CProject\CProject\catDemo.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Administrator\Desktop\Note\C\代码\CProject\CProject\charArrDemo01.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Administrator\Desktop\Note\C\代码\CProject\CProject\charArrDemo02.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Administrator\Desktop\Note\C\代码\CProject\CProject\charArrDemo03.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Administrator\Desktop\Note\C\代码\CProject\CProject\charArrDemo4.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Administrator\Desktop\Note\C\代码\CProject\CProject\charArrDemo5.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Administrator\Desktop\Note\C\代码\CProject\CProject\charDemo.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Administrator\Desktop\Note\C\代码\CProject\CProject\constDemo01.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Administrator\Desktop\Note\C\代码\CProject\CProject\constDemo02.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Administrator\Desktop\Note\C\代码\CProject\CProject\constvsdefine01.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Administrator\Desktop\Note\C\代码\CProject\CProject\constvsdefine02.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Administrator\Desktop\Note\C\代码\CProject\CProject\continueDemo01.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Administrator\Desktop\Note\C\代码\CProject\CProject\continueExercise.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Administrator\Desktop\Note\C\代码\CProject\CProject\customerManage.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Administrator\Desktop\Note\C\代码\CProject\CProject\debugDemo.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Administrator\Desktop\Note\C\代码\CProject\CProject\debugDemo02.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Administrator\Desktop\Note\C\代码\CProject\CProject\debugDemo3.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Administrator\Desktop\Note\C\代码\CProject\CProject\debugDemo04.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Administrator\Desktop\Note\C\代码\CProject\CProject\defineDemo.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Administrator\Desktop\Note\C\代码\CProject\CProject\defineDemo.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Administrator\Desktop\Note\C\代码\CProject\CProject\doWhileDemo.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Administrator\Desktop\Note\C\代码\CProject\CProject\doWhileExercise.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Administrator\Desktop\Note\C\代码\CProject\CProject\enumDemo.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Administrator\Desktop\Note\C\代码\CProject\CProject\enumDemo02.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Administrator\Desktop\Note\C\代码\CProject\CProject\enumSwitchDemo.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Administrator\Desktop\Note\C\代码\CProject\CProject\exercise.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Administrator\Desktop\Note\C\代码\CProject\CProject\exercise01.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Administrator\Desktop\Note\C\代码\CProject\CProject\exercise02.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Administrator\Desktop\Note\C\代码\CProject\CProject\exercise03.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Administrator\Desktop\Note\C\代码\CProject\CProject\file01.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Administrator\Desktop\Note\C\代码\CProject\CProject\file02.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Administrator\Desktop\Note\C\代码\CProject\CProject\file03.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Administrator\Desktop\Note\C\代码\CProject\CProject\file04.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Administrator\Desktop\Note\C\代码\CProject\CProject\fileDemo01.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Administrator\Desktop\Note\C\代码\CProject\CProject\fileDemo02.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Administrator\Desktop\Note\C\代码\CProject\CProject\fileDemo03.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Administrator\Desktop\Note\C\代码\CProject\CProject\fileDemo04.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Administrator\Desktop\Note\C\代码\CProject\CProject\fileDemo05.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Administrator\Desktop\Note\C\代码\CProject\CProject\floatdoubleDemo.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Administrator\Desktop\Note\C\代码\CProject\CProject\forceTypeTransfer.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Administrator\Desktop\Note\C\代码\CProject\CProject\forDemo01.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Administrator\Desktop\Note\C\代码\CProject\CProject\forExercise01.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Administrator\Desktop\Note\C\代码\CProject\CProject\funcDemo01.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Administrator\Desktop\Note\C\代码\CProject\CProject\funcExercise01.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Administrator\Desktop\Note\C\代码\CProject\CProject\funcTheory.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Administrator\Desktop\Note\C\代码\CProject\CProject\funDetailExercise.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Administrator\Desktop\Note\C\代码\CProject\CProject\funDetails.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Administrator\Desktop\Note\C\代码\CProject\CProject\funPointer.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Administrator\Desktop\Note\C\代码\CProject\CProject\funVsDefine.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Administrator\Desktop\Note\C\代码\CProject\CProject\gotoDemo.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Administrator\Desktop\Note\C\代码\CProject\CProject\hello.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Administrator\Desktop\Note\C\代码\CProject\CProject\ifDemo.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Administrator\Desktop\Note\C\代码\CProject\CProject\ifelseDemo.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Administrator\Desktop\Note\C\代码\CProject\CProject\ifelseExercise.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Administrator\Desktop\Note\C\代码\CProject\CProject\inputDemo.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Administrator\Desktop\Note\C\代码\CProject\CProject\intDemo.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Administrator\Desktop\Note\C\代码\CProject\CProject\intDetail.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Administrator\Desktop\Note\C\代码\CProject\CProject\logicOperator.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Administrator\Desktop\Note\C\代码\CProject\CProject\mallocDemo.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Administrator\Desktop\Note\C\代码\CProject\CProject\map.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Administrator\Desktop\Note\C\代码\CProject\CProject\memberNotice.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Administrator\Desktop\Note\C\代码\CProject\CProject\muitlArrExercise01.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Administrator\Desktop\Note\C\代码\CProject\CProject\muitlPointerDemo.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Administrator\Desktop\Note\C\代码\CProject\CProject\mulOperator.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Administrator\Desktop\Note\C\代码\CProject\CProject\multiArrDemo01.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Administrator\Desktop\Note\C\代码\CProject\CProject\multiForExercise01.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Administrator\Desktop\Note\C\代码\CProject\CProject\multiForExercise02.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Administrator\Desktop\Note\C\代码\CProject\CProject\multiIfElse.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Administrator\Desktop\Note\C\代码\CProject\CProject\multiIfElse02.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Administrator\Desktop\Note\C\代码\CProject\CProject\multiParameterFun.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Administrator\Desktop\Note\C\代码\CProject\CProject\myAccount.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Administrator\Desktop\Note\C\代码\CProject\CProject\myAccount2.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Administrator\Desktop\Note\C\代码\CProject\CProject\myExercise.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Administrator\Desktop\Note\C\代码\CProject\CProject\myfun.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Administrator\Desktop\Note\C\代码\CProject\CProject\nestedIfElse.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Administrator\Desktop\Note\C\代码\CProject\CProject\nullPointer.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Administrator\Desktop\Note\C\代码\CProject\CProject\operatorDemo.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Administrator\Desktop\Note\C\代码\CProject\CProject\parameterDefine.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Administrator\Desktop\Note\C\代码\CProject\CProject\pointer.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Administrator\Desktop\Note\C\代码\CProject\CProject\pointerArr01.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Administrator\Desktop\Note\C\代码\CProject\CProject\pointerArrCase.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Administrator\Desktop\Note\C\代码\CProject\CProject\pointerCompare.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Administrator\Desktop\Note\C\代码\CProject\CProject\pointerCompare02.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Administrator\Desktop\Note\C\代码\CProject\CProject\pointerDemo01.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Administrator\Desktop\Note\C\代码\CProject\CProject\pointerDemo02.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Administrator\Desktop\Note\C\代码\CProject\CProject\pointerDemo03.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Administrator\Desktop\Note\C\代码\CProject\CProject\pointerExercise01.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Administrator\Desktop\Note\C\代码\CProject\CProject\pointerPassDemo01.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Administrator\Desktop\Note\C\代码\CProject\CProject\pointerPassDemo02.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Administrator\Desktop\Note\C\代码\CProject\CProject\preProcessDemo01.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Administrator\Desktop\Note\C\代码\CProject\CProject\recursionDemo01.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Administrator\Desktop\Note\C\代码\CProject\CProject\recursionExercise.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Administrator\Desktop\Note\C\代码\CProject\CProject\returnPointerExercise.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Administrator\Desktop\Note\C\代码\CProject\CProject\returnPointerFun.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Administrator\Desktop\Note\C\代码\CProject\CProject\returnPointerFunDetail.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Administrator\Desktop\Note\C\代码\CProject\CProject\searchSeq.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Administrator\Desktop\Note\C\代码\CProject\CProject\spareArray.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Administrator\Desktop\Note\C\代码\CProject\CProject\sparseArray.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Administrator\Desktop\Note\C\代码\CProject\CProject\sparseArray2.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Administrator\Desktop\Note\C\代码\CProject\CProject\stars.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Administrator\Desktop\Note\C\代码\CProject\CProject\staticDemo.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Administrator\Desktop\Note\C\代码\CProject\CProject\strFun.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Administrator\Desktop\Note\C\代码\CProject\CProject\strToBasic.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Administrator\Desktop\Note\C\代码\CProject\CProject\structExercise01.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Administrator\Desktop\Note\C\代码\CProject\CProject\structMemberDemo02.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Administrator\Desktop\Note\C\代码\CProject\CProject\stuAndTeacher.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Administrator\Desktop\Note\C\代码\CProject\CProject\studensScore.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Administrator\Desktop\Note\C\代码\CProject\CProject\switchDemo.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Administrator\Desktop\Note\C\代码\CProject\CProject\switchExercise.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Administrator\Desktop\Note\C\代码\CProject\CProject\test.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Administrator\Desktop\Note\C\代码\CProject\CProject\timeDemo01.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Administrator\Desktop\Note\C\代码\CProject\CProject\typeTransfer.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Administrator\Desktop\Note\C\代码\CProject\CProject\unionDemo01.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Administrator\Desktop\Note\C\代码\CProject\CProject\varDemo01.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Administrator\Desktop\Note\C\代码\CProject\CProject\varDetail.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Administrator\Desktop\Note\C\代码\CProject\CProject\varExercise01.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Administrator\Desktop\Note\C\代码\CProject\CProject\varExercise02.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Administrator\Desktop\Note\C\代码\CProject\CProject\varInitDemo.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Administrator\Desktop\Note\C\代码\CProject\CProject\varScope01.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Administrator\Desktop\Note\C\代码\CProject\CProject\visitorTicket.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Administrator\Desktop\Note\C\代码\CProject\CProject\whileDemo.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\Administrator\Desktop\Note\C\代码\CProject\CProject\CProject.vcxproj">
+      <Filter>源文件</Filter>
+    </None>
+    <None Include="C:\Users\Administrator\Desktop\Note\C\代码\CProject\CProject\CProject.vcxproj.filters">
+      <Filter>源文件</Filter>
+    </None>
+    <None Include="C:\Users\Administrator\Desktop\Note\C\代码\CProject\CProject\CProject.vcxproj.user">
+      <Filter>源文件</Filter>
+    </None>
+    <None Include="C:\Users\Administrator\Desktop\Note\C\代码\CProject\CProject\map.data">
+      <Filter>源文件</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\Administrator\Desktop\Note\C\代码\CProject\CProject\myfun.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
